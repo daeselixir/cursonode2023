@@ -1,3 +1,6 @@
 /node_modules/
 /node-express-course-main
 /tutorial
+README.md
+.DS_Store
+/02-express-tutorial/.DS_Store
