@@ -1,4 +1,6 @@
 {
   "glassit.force_sway": true,
-  "glassit.step": 3
+  "glassit.step": 3,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "symbols.hidesExplorerArrows": false
 }
